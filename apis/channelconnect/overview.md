@@ -4,6 +4,9 @@ The API is based on [Open Travel Alliance](https://opentravel.org/) standards th
 
 The API facilitates development teams with a fast and easy connection, setup and build through the API, offering a complete 2-way integration between the booking channel and many thousands of properties.
 
+![Flowchart](images/flowchart.png)
+
+
 #### Benefits:
 
 * Build 1 connection to access the leading global Property Management Systems and Central Reservation Systems
