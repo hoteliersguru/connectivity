@@ -7,3 +7,4 @@ This document is intended for developers and assumes the reader has working know
 * [Inventory Push API](inventory-push-api/)
 * [Reservation API](reservation-api/)
 * [Error Handling](error-handling.md)
+* [Notifications](notifications/)
